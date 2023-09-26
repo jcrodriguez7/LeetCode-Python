@@ -1,6 +1,6 @@
 class solution(object):
     '''
-    For a given int list "nums", give the "k" numbers that appears with more frequency
+    For a given int list "nums", give the "k" numbers that appears with more frequency -
     '''
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
             
